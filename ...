@@ -142,9 +142,9 @@
     </div>
 </body>
 <script>
-    let datetxt = "06-05-2005";
-    let datatxtletter = "Tình yêu của đời anh. Em là một cô gái rất đặc biệt. Anh luôn thầm cảm ơn vì em đã đến bên cạnh anh. Ngày hôm nay anh chúc em mọi điều an lành, thật nhiều sức khỏe, thật nhiều niềm vui. Anh luôn hy vọng mình sẽ luôn cùng nhau đón nhiều sinh nhật như thế này. Mừng sinh nhật em.💕";
-    let titleLetter = "Gửi em";
+    let datetxt = "30-05-2009";
+    let datatxtletter = "Oh my love. You là một cô gái very đặc biệt. Anh đã luôn thầm cảm ơn vì ông trời đã gửi cưng đến bên cạnh anh. Chỉ hôm nay thôi, hoa hồng cũng không tươi bằng cưng, Emma Watson cũng không đẹp bằng cưng. Today anh chúc cưng mọi điều an lành, thật nhiều sức khỏe, thật nhiều niềm vui. Chúc mừng sinh nhật, cục zàng của anh 💕";
+    let titleLetter = "Gửi cưng";
     let charArrDate = datetxt.split('');
     let charArrDateLetter = datatxtletter.split('');
     let charArrTitle = titleLetter.split('');
